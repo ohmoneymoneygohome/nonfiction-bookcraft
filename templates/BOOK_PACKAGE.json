@@ -1,0 +1,15 @@
+{
+  "pdf": "OUTPUT/book.pdf",
+  "cover": "OUTPUT/cover.png",
+  "title_page": "OUTPUT/title-page.pdf",
+  "copyright_page": "OUTPUT/copyright-page.pdf",
+  "toc": "OUTPUT/toc.pdf",
+  "references": "OUTPUT/references.pdf",
+  "chapter_files": ["MANUSCRIPT/01-introduction.md"],
+  "required_text": ["目录", "参考资料"],
+  "page_count_min": 10,
+  "require_embedded_font": true,
+  "require_title_metadata": true,
+  "citation_register": "CITATION_REGISTER.json",
+  "figure_register": "FIGURE_REGISTER.json"
+}

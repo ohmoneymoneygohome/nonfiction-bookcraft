@@ -1,0 +1,18 @@
+{
+  "source_register": "SOURCE_REGISTER.json",
+  "figures": [
+    {
+      "id": "FIG-001",
+      "title": "Descriptive figure title",
+      "file": "FIGURES/FIG-001.svg",
+      "data_file": "FIGURES/FIG-001.json",
+      "generator": "FIGURES/FIG-001.echarts.js",
+      "generator_type": "echarts",
+      "source_ids": ["SRC-001"],
+      "placement": "03-chapter.md after section heading",
+      "caption": "Figure note: unit, time range, sample, processing",
+      "alt_text": "Accessible description of the figure",
+      "status": "pending"
+    }
+  ]
+}

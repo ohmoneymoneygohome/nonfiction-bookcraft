@@ -1,0 +1,18 @@
+{
+  "source_register": "SOURCE_REGISTER.json",
+  "manuscript_dir": "MANUSCRIPT",
+  "exclude": ["参考资料.md"],
+  "require_any": true,
+  "citations": [
+    {
+      "id": "SRC-001",
+      "marker": "[^SRC-001]",
+      "file": "01-introduction.md",
+      "locator": "paragraph 4; source page/section/URL fragment",
+      "source_ids": ["SRC-001"],
+      "note_type": "footnote",
+      "citation_text": "Full note text as it should appear in the book",
+      "status": "pending"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "sources": [
+    {
+      "id": "SRC-001",
+      "type": "peer_reviewed_paper",
+      "author": "Author or institution",
+      "title": "Full source title",
+      "publisher": "Journal, publisher, or institution",
+      "date": "YYYY-MM-DD",
+      "url_or_doi": "https://doi.org/example",
+      "accessed": "YYYY-MM-DD",
+      "status": "pending",
+      "claims": ["Claim IDs supported by this source"],
+      "notes": "Pages, table, section, or version details"
+    }
+  ]
+}
