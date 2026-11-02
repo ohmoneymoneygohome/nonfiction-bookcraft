@@ -1,0 +1,4 @@
+interface:
+  display_name: "非虚构图书写作"
+  short_description: "从核心创意推进到可持续合并的长篇书稿"
+  default_prompt: "使用 $nonfiction-bookcraft 协同创作流与长篇工作流，规划并推进这本非虚构图书。"
